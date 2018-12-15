@@ -1,0 +1,27 @@
+.theHeader {
+	color: black;
+	text-align: center;
+	font-size: 30px;
+}
+
+h1 {
+	color: blue;
+	text-align: center;
+	font-size: 30px;
+}
+img {
+	padding: 15px;
+	margin: 10px;
+	width: 150px;
+	height: 150px;
+	border: 1px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+
+}
+
+body {
+	border: 1px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
